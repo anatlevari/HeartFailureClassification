@@ -1,1 +1,13 @@
-# HeartFailureClassification
+# Heart Failure Dataset - Insights & Classification
+
+This project aims to find a good classification algorithm and data insights to predict future heart failure. 
+The data is taken from [here](https://www.kaggle.com/fedesoriano/heart-failure-prediction) and contains 918 samples. The dataset includes for each sample 11 features, such as age, sex, maximal heart rate, etc., and the last column indicating heart failure or not.
+
+I first study the data [here](https://github.com/anatlevari/HeartFailureClassification/blob/main/Heart%20Failure%20Insights.ipynb) to obtain insights and preparations for the classification task.
+In [here](https://github.com/anatlevari/HeartFailureClassification/blob/main/Heart%20Failure%20-%20Classification.ipynb), I compared six classification algorithms to find the one best predicts heart failure based on the features.  
+
+Future steps in this project are:
+* Reduce overfitting in two classification models (decision tree and random forest models).
+* Use the decision tree classification model for describing the most significant features that predict heart failure.
+
+
