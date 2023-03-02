@@ -7,7 +7,7 @@ I first study the data [here](https://github.com/anatlevari/HeartFailureClassifi
 In [here](https://github.com/anatlevari/HeartFailureClassification/blob/main/Heart%20Failure%20-%20Classification.ipynb), I compared six classification algorithms to find the one best predicts heart failure based on the features.  
 
 ### Conclusion
-The maximal accuracy was achieved by a support vector machine classifier and is equal to 91%. Thus, this classifier may be a good fit for future heart failure detection. In addition, I used the decision tree classification model for describing the most significant features that predict heart failure.
+The maximal accuracy was achieved by a support vector machine classifier and is equal to 91%. In addition, I used the decision tree classification model for describing the most significant features that predict heart failure.
 
 
 
